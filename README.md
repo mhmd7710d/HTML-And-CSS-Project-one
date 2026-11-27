@@ -31,4 +31,4 @@ Based on Elzero Web School's HTML and CSS Template One (Leon). The content is pr
 - Facebook: https://www.facebook.com/share/1CQhxpCeYL/
 - Instagram: https://www.instagram.com/mhmd7710d/
 - Email: muhammutfathi@gmail.com
-- WhatsApp: https://wa.me/201040428475?text=Hi+Mohamed%2C+I+found+your+project+on+GitHub.
+- WhatsApp: https://wa.me/201040428475?text=Hi+Mohammad%2C+I+found+your+project+on+GitHub.
